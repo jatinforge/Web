@@ -1,0 +1,207 @@
+{
+  "applications": [
+    {
+      "id": "JM-2026-69FA",
+      "fullName": "Aarav Sharma",
+      "email": "aarav.sharma@example.com",
+      "phone": "+91 98200 12345",
+      "companyName": "Kaveri Logistics",
+      "projectType": "AI Chatbot",
+      "projectDescription": "We need an AI customer support chatbot trained on our logistics documentation and package tracking APIs.",
+      "budget": "₹50,000 - ₹1,00,000 / $600 - $1,200 (Custom Web App / E-commerce / AI Chatbot)",
+      "timeline": "Standard (2-4 weeks)",
+      "preferredContactMethod": "WhatsApp",
+      "status": "Accepted",
+      "internalNotes": "Logistics API credentials received. Statement of Work signed.",
+      "consentGiven": true,
+      "consentTimestamp": "2026-10-15T10:57:06.990Z",
+      "createdAt": "2026-10-15T10:57:06.990Z",
+      "updatedAt": "2026-10-15T11:13:45.588Z"
+    },
+    {
+      "fullName": "Vikramaditya Singhania",
+      "email": "vikram@singhaniatech.in",
+      "phone": "+91 98290 88211",
+      "companyName": "Singhania Logistics & Supply",
+      "projectType": "AI Chatbot",
+      "projectDescription": "We require an enterprise customer support AI chatbot that connects to our consignment tracking API and answers freight inquiries for 4,000+ drivers and shipping clients.",
+      "budget": "₹1,00,000 - ₹2,50,000 / $1,200 - $3,000 (Full-Scale AI Assistant / Custom Platform)",
+      "timeline": "Standard (2-4 weeks)",
+      "existingWebsite": "https://singhania-logistics.in",
+      "referenceWebsites": "https://intercom.com, https://linear.app",
+      "preferredContactMethod": "WhatsApp",
+      "additionalRequirements": "Must support Hindi and English bilingual queries with automated fallback to human dispatchers.",
+      "status": "In Progress",
+      "internalNotes": "Architecture approved. RAG embeddings generated for shipping manuals. API webhook integrated with their staging fleet database.",
+      "consentGiven": true,
+      "consentTimestamp": "2026-10-11T11:12:10.434Z",
+      "id": "JM-2026-DEB1",
+      "createdAt": "2026-10-11T11:12:10.434Z",
+      "updatedAt": "2026-10-11T11:12:10.434Z"
+    },
+    {
+      "fullName": "Dr. Ananya Roy",
+      "email": "ananya.roy@pulsehealth.org",
+      "phone": "+91 97112 34509",
+      "companyName": "Pulse Clinical Systems",
+      "projectType": "AI Assistant",
+      "projectDescription": "Custom medical intake assistant that parses incoming PDF pathology test sheets and extracts critical biometric ranges into structured JSON format for our doctor review queue.",
+      "budget": "₹1,00,000 - ₹2,50,000 / $1,200 - $3,000 (Full-Scale AI Assistant / Custom Platform)",
+      "timeline": "1 to 2 months",
+      "referenceWebsites": "https://anthropic.com, https://healthgorilla.com",
+      "preferredContactMethod": "Email",
+      "additionalRequirements": "Zero data retention on public LLM endpoints; must comply with Indian health information privacy guidelines.",
+      "status": "Reviewing",
+      "internalNotes": "Initial scoping call scheduled for Friday 3 PM. Testing Gemini 2.5 Flash document extraction with structured JSON schemas.",
+      "consentGiven": true,
+      "consentTimestamp": "2026-10-13T11:12:10.434Z",
+      "id": "JM-2026-277E",
+      "createdAt": "2026-10-13T11:12:10.434Z",
+      "updatedAt": "2026-10-13T11:12:10.434Z"
+    },
+    {
+      "fullName": "Rohan Mehra",
+      "email": "rohan@amberartisans.com",
+      "phone": "+91 94140 55902",
+      "companyName": "Amber Heritage Crafts",
+      "projectType": "E-commerce Website",
+      "projectDescription": "D2C online store for handcrafted leather goods and brass decor. We need fast product page load times, Razorpay payment gateway integration, and shipping weight calculation.",
+      "budget": "₹50,000 - ₹1,00,000 / $600 - $1,200 (Custom Web App / E-commerce / AI Chatbot)",
+      "timeline": "Standard (2-4 weeks)",
+      "existingWebsite": "https://amberartisans.com",
+      "referenceWebsites": "https://hardgraft.com, https://lelabofragrances.com",
+      "preferredContactMethod": "WhatsApp",
+      "additionalRequirements": "Mobile checkout must be frictionless; majority of our buyers come via Instagram ads.",
+      "status": "Accepted",
+      "internalNotes": "Deposit received. Wireframes approved on Figma. Beginning component build in React + Tailwind with Razorpay checkout modal.",
+      "consentGiven": true,
+      "consentTimestamp": "2026-10-14T11:12:10.434Z",
+      "id": "JM-2026-3625",
+      "createdAt": "2026-10-14T11:12:10.434Z",
+      "updatedAt": "2026-10-14T11:12:10.434Z"
+    },
+    {
+      "fullName": "Marcus Vance",
+      "email": "m.vance@vancestudio.design",
+      "phone": "+1 415 802 9940",
+      "companyName": "Vance Architecture Studio",
+      "projectType": "Portfolio Website",
+      "projectDescription": "High-contrast minimalist architecture portfolio featuring full-bleed project photo galleries, project floorplan blueprints, and an inquiry contact sheet.",
+      "budget": "₹50,000 - ₹1,00,000 / $600 - $1,200 (Custom Web App / E-commerce / AI Chatbot)",
+      "timeline": "Urgent (Within 1-2 weeks)",
+      "referenceWebsites": "https://snarkitecture.com, https://davidchipperfield.com",
+      "preferredContactMethod": "Email",
+      "additionalRequirements": "Must achieve 98+ Google Lighthouse Performance score with WebP optimized photography.",
+      "status": "Completed",
+      "internalNotes": "Delivered and deployed on client custom domain. Lighthouse score 99. Client signed off and full invoice settled.",
+      "consentGiven": true,
+      "consentTimestamp": "2026-10-01T11:12:10.434Z",
+      "id": "JM-2026-25F6",
+      "createdAt": "2026-10-01T11:12:10.434Z",
+      "updatedAt": "2026-10-01T11:12:10.434Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "MSG-MV9FD2UV-6B3A",
+      "fullName": "Priya Nair",
+      "email": "priya.nair@example.com",
+      "phone": "+91 99887 76655",
+      "subject": "Consultation on Full-Stack E-commerce",
+      "message": "Hi Jatin, I saw your portfolio and would like to know your availability for building our sustainable brand store next month.",
+      "createdAt": "2026-10-15T10:57:42.583Z",
+      "read": false
+    }
+  ],
+  "admin": {
+    "setupCompleted": true,
+    "passwordHash": "20a0549951237a5fd3745ef870fab22552213efbcae65ceab33329716cd9076e2af16f44143efa061206b99254debcc974089b39979538ba234c26aac4d8aa06",
+    "salt": "b4f45c6fc63673324675f8565a6c23cd",
+    "updatedAt": "2026-10-15T10:58:14.110Z"
+  },
+  "sessions": {
+    "560d2541433436b107cb52ff7cd99b7fecedaa6cf72cae1e44aa8ece736b6758": {
+      "sessionId": "560d2541433436b107cb52ff7cd99b7fecedaa6cf72cae1e44aa8ece736b6758",
+      "createdAt": 1792061894111,
+      "expiresAt": 1792666694111
+    },
+    "83dd50aca02ae73701e7915deac93ec0c6cb3e4fe30a5b151e9f13073321869b": {
+      "sessionId": "83dd50aca02ae73701e7915deac93ec0c6cb3e4fe30a5b151e9f13073321869b",
+      "createdAt": 1792062692679,
+      "expiresAt": 1792667492679
+    }
+  },
+  "statusHistory": [
+    {
+      "id": "HIST-MV9FXPX0-7352",
+      "applicationId": "JM-2026-69FA",
+      "previousStatus": "Reviewing",
+      "newStatus": "Accepted",
+      "changedBy": "Jatin Mehra (Admin)",
+      "note": "Status updated with notes",
+      "timestamp": "2026-10-15T11:13:45.588Z"
+    },
+    {
+      "id": "HIST-MV9FVOHU-CC8C",
+      "applicationId": "JM-2026-DEB1",
+      "previousStatus": "New",
+      "newStatus": "In Progress",
+      "changedBy": "Admin (Jatin Mehra)",
+      "note": "Architecture approved. RAG embeddings generated for shipping manuals. API webhook integrated with their staging fleet database.",
+      "timestamp": "2026-10-11T11:12:10.434Z"
+    },
+    {
+      "id": "HIST-MV9FVOHU-F077",
+      "applicationId": "JM-2026-277E",
+      "previousStatus": "New",
+      "newStatus": "Reviewing",
+      "changedBy": "Admin (Jatin Mehra)",
+      "note": "Initial scoping call scheduled for Friday 3 PM. Testing Gemini 2.5 Flash document extraction with structured JSON schemas.",
+      "timestamp": "2026-10-13T11:12:10.434Z"
+    },
+    {
+      "id": "HIST-MV9FVOHV-4422",
+      "applicationId": "JM-2026-3625",
+      "previousStatus": "New",
+      "newStatus": "Accepted",
+      "changedBy": "Admin (Jatin Mehra)",
+      "note": "Deposit received. Wireframes approved on Figma. Beginning component build in React + Tailwind with Razorpay checkout modal.",
+      "timestamp": "2026-10-14T11:12:10.434Z"
+    },
+    {
+      "id": "HIST-MV9FVOHV-B33B",
+      "applicationId": "JM-2026-25F6",
+      "previousStatus": "New",
+      "newStatus": "Completed",
+      "changedBy": "Admin (Jatin Mehra)",
+      "note": "Delivered and deployed on client custom domain. Lighthouse score 99. Client signed off and full invoice settled.",
+      "timestamp": "2026-10-01T11:12:10.434Z"
+    }
+  ],
+  "auditLogs": [
+    {
+      "id": "LOG-MV9FXPX0-C0B7",
+      "action": "NOTE_UPDATED",
+      "details": "Private internal notes modified for application JM-2026-69FA",
+      "timestamp": "2026-10-15T11:13:45.588Z"
+    },
+    {
+      "id": "LOG-MV9FXPX0-6BE0",
+      "action": "APPLICATION_STATUS_UPDATED",
+      "details": "Application JM-2026-69FA status transitioned from Reviewing -> Accepted by Jatin Mehra (Admin)",
+      "timestamp": "2026-10-15T11:13:45.588Z"
+    },
+    {
+      "id": "LOG-MV9FVOHV-A370",
+      "action": "DATABASE_SEEDED",
+      "details": "Seeded 4 realistic benchmark project applications.",
+      "timestamp": "2026-10-15T11:12:10.435Z"
+    },
+    {
+      "id": "LOG-MV9FUVD3-4CCE",
+      "action": "SESSION_CREATED",
+      "details": "Admin session authenticated successfully.",
+      "timestamp": "2026-10-15T11:11:32.679Z"
+    }
+  ]
+}
